@@ -10,4 +10,4 @@ de menor complexidade.
 
 Todos as soluções armazenadas estarão disponíveis em linguagem C.
 
-A cópia e distribuição dos códigos fonte são permitidas, desde que haja referência ao local onde aa solução é descrita.
+A cópia e distribuição dos códigos fonte são permitidas, desde que haja referência ao local onde a solução é descrita.
