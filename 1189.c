@@ -2,7 +2,7 @@
 
 int main(){
 
-    int i, j, k, l;
+    int i, j, l;
     double m[12][12], tmp = 0;
     char o;
 
