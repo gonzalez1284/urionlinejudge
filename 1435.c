@@ -1,3 +1,8 @@
+/*
+ * Author: Thiago (gonzalez1284)
+ * Language:  C
+ */
+
 #include <stdio.h>
 
 int min(int a, int b){
